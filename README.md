@@ -1,4 +1,4 @@
-# T-mux-Banner
+# Termux-Theme
 customize your Termux terminal like a pro 
 
 # Installation
@@ -11,7 +11,7 @@ $ apt install git
 
 $ git clone https://github.com/SHADOW-HUNTER-BD/termux-theme.git
 
-$ cd T-mux-Banner
+$ cd termux-theme
 
 $ bash install
 
