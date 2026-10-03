@@ -9,7 +9,7 @@ $ apt upgrade
 
 $ apt install git
 
-$ git clone https://github.com/0xS0l0/T-mux-Banner.git
+$ git clone https://github.com/SHADOW-HUNTER-BD/termux-theme.git
 
 $ cd T-mux-Banner
 
